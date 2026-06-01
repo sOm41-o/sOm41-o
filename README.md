@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**Competitive Programmer &nbsp;·&nbsp; M2 Researcher &nbsp;·&nbsp; Kyoto**
+# **Competitive Programmer &nbsp;·&nbsp; M2 Researcher &nbsp;&nbsp;**
 
 </div>
 
