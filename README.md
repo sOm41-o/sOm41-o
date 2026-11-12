@@ -26,6 +26,25 @@
 
 ---
 
+### 📄 Publications
+
+<div align="center">
+
+<a href="https://doi.org/10.1109/TMAG.2026.3732507">
+  <img src="https://img.shields.io/badge/IEEE%20Trans.%20Magn.-Early%20Access%202026-c8924a?style=for-the-badge&labelColor=1a1208&color=804000&logo=ieee&logoColor=white" alt="IEEE Transactions on Magnetics, Early Access 2026"/>
+</a>
+
+</div>
+
+<br/>
+
+- **S. Kawamoto**, Y. Takahashi, M. Kishi, S. Wakao, N. Murata, and K. Fujiwara, "Prediction of Symmetric Hysteresis Loops Using Gaussian Process Regression and Neural Networks," *IEEE Transactions on Magnetics*, Early Access, 2026.<br/>
+  DOI: [10.1109/TMAG.2026.3732507](https://doi.org/10.1109/TMAG.2026.3732507)
+
+<br/>
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
